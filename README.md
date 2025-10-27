@@ -24,7 +24,7 @@ The goal was to rebuild parts of a bakery landing page using **classic layout te
 - Better control over inline-block alignment
 
 ## 🔗 Live Demo
-https://eng-mohamed-hussein7.github.io/Family-Bakery/
+https://eng-mohamed-hussein7.github.io/route-frontend-assignment-03-family-bakery/
 
 ---
 
